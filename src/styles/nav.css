@@ -1,0 +1,21 @@
+nav {
+  min-height: 10vh;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+nav button {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  border: 2px solid #414141;
+  padding: 1rem 2rem;
+}
+/*# sourceMappingURL=nav.css.map */
